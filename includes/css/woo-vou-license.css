@@ -1,0 +1,14 @@
+/* Css for license page */
+.wpweb-db-reg-howto{
+    margin-top: 1.4em;
+    padding: 1.4em;
+    border: 1px solid #dfdfdf;
+    border-radius: 0.7em;
+}
+.woo-vou-license-button #loader {
+    display: none;   
+}
+.woo-vou-license-button #loader img {
+    vertical-align: middle;
+    margin-top: 5px;
+}
